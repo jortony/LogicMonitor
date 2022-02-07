@@ -1,2 +1,2 @@
-# LogicMonitor_Scripts
+# LogicMonitor
  Working folder for personal LogicMonitor usage
